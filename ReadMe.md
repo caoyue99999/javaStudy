@@ -1,9 +1,9 @@
-# ReadMe
+# java开发笔记
 
-用git做Java项目管理的工具
+GitHub保存的Java可开发笔记
 
-```
-hello
-```
+包含了：
 
-hello2
+* Java基础知识
+
+* 反射
